@@ -1,4 +1,4 @@
-<h1>Hola Dev's 🙋‍♂️</h1>
+<h1>Hola Mundo 🙋‍♂️</h1>
 
 <p>Desarrollador Fullstack JavaScript, apasionado por el Front-end. Realicé un bootcamp de más de 800 hs. de estudio intensivo que me preparó para desempeñarme como desarrollador Fullstack. Dentro del curso aprendí desde lo básico hasta desarrollar una aplicación en equipo.</p>
 
