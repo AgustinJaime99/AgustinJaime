@@ -2,7 +2,7 @@
 
 <p>Desarrollador Fullstack JavaScript, apasionado por el Front-end. Realicé un bootcamp de más de 800 hs. de estudio intensivo que me preparó para desempeñarme como desarrollador Fullstack. Dentro del curso aprendí desde lo básico hasta desarrollar una aplicación en equipo.</p>
 
-<h4>Habilidades:</h4>
+<h4>🧠 Habilidades:</h4>
 <ul>
   <li>💻 JavaScript, React</li>
   <li>⚙️ Node.JS, Express.Js</li>
@@ -13,7 +13,7 @@
 
 <p>Actualmente estoy buscando mi primer oportunidad que ayuden a mi desarrollo personal. Soy una persona proactiva, creativa, con buena disposición, siempre dispuesta, respetuosa y por sobre todo con ganas de trabajar en equipo.⚡</p>
 
-<h4>📫Contacto:</h4>
+<h4>📫 Contacto:</h4>
 <ul>
   <li>📧 <a href='https://www.linkedin.com/in/agustin-diego-jaime-4033041b7/'> LinkedIn </a> </li>
   <li>💼 <a href='https://agustin-d-jaime.netlify.app/'> Portfolio </a> </li>
