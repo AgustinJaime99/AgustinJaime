@@ -11,7 +11,7 @@
   <li>💬 Git, SCRUM, Slack, Trello</li>
 </ul>
 
-<p>Actualmente estoy buscando mi primer oportunidad que ayuden a mi desarrollo personal. Soy una persona proactiva, creativa, con buena disposición, siempre dispuesta, respetuosa y por sobre todo con ganas de trabajar en equipo.⚡</p>
+<p>Actualmente estoy buscando mi primer oportunidad que ayuden a mi desarrollo personal. Soy una persona proactiva, creativa, con buena disposición, siempre dispuesta, respetuosa y por sobre todo con ganas de trabajar en equipo.</p>
 
 <h4>📫 Contacto:</h4>
 <ul>
