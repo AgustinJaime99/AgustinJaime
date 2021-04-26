@@ -20,6 +20,6 @@
   <li>📜 <a href='https://drive.google.com/file/d/1d67Fcnu_fGYWfW2Zy49xLWYdQUWUWilR/view'> CV </a> </li>
 </ul>
 
-![Agustin Diego Jaime GitHub stats](https://github-readme-stats.vercel.app/api?username=agustinjaime99&show_icons=true&theme=radical&hide=issues,prs)
-</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinJaime99&layout=compact&theme=graywhite)](https://github.com/JehhS/github-readme-stats)
+</br>
+![Agustin Diego Jaime GitHub stats](https://github-readme-stats.vercel.app/api?username=agustinjaime99&show_icons=true&theme=radical&hide=issues,prs)
